@@ -2,7 +2,7 @@
 
 - [x] Cvičení 3: Tvorba menu
 - [x] Cvičení 4: ASCII Art, statické proměnné a metody, opakování tvorby menu
-- [ ] Cvičení 5: Pole a objekty
+- [x] Cvičení 5: Pole a objekty
 - [ ] Cvičení 6: Třídy a objekty
 - [ ] Cvičení 7: Gettery a settery, garbage collector
 - [ ] Cvičení 8: Dědičnost a polymorfismus
